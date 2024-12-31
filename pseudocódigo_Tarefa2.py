@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Aug 31 10:27:45 2023
-
-@author: c2320462
-"""
-"""
 
 #Exercício 1
 

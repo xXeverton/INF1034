@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Sep  4 12:31:10 2023
-
-@author: c2320462
-"""
-"""
 #Exercício 1
 def calcula_média(nota1, nota2):
 

@@ -2,7 +2,6 @@
 # Jogos não gráficos
 # Tarefa 8.4 - Adivinhação Usuário
 # Aluno: Everton Pereira Militão
-# Matrícula:2320462
 #####################################################
 # Usar somente python com a tela interativa.
 # Não é para usar o Pygame e nem o Turtle.

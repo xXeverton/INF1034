@@ -2,7 +2,6 @@
 # Tarefas não gráficas
 # Tarefa 9.2 - Senha
 # Aluno:Everton Pereira Militão
-# Matrícula:2320462
 #####################################################
 # Usar somente python com a tela interativa.
 # Não é para usar o Pygame e nem o Turtle.

@@ -1,14 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Sep  6 09:08:40 2023
-
-@author: c2320462
-"""
-"""
-
-
-
-
 imposto = float(1.15)
 
 peso = float(input("Digite o peso dos peixes: "))

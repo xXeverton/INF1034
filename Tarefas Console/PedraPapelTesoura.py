@@ -2,7 +2,6 @@
 # Jogos não gráficos
 # Tarefa 8.3 - Pedra, Papel, Tesoura
 # Aluno: Everton Pereira Militão
-# Matrícula: 2320462
 #####################################################
 # Usar somente python com a tela interativa.
 # Não é para usar o Pygame e nem o Turtle.
@@ -76,4 +75,3 @@ def jogoPedraPapelTesoura():
 #Bloco Principal:
 jogoPedraPapelTesoura()
 print("JOGO ENCERRADO")
-  
