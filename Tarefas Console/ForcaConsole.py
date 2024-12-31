@@ -2,7 +2,6 @@
 # Jogos não gráficos
 # Tarefa 8.2 - Forca
 # Aluno:Everton Pereira Militão 
-# Matrícula:2320462
 #####################################################
 # Usar somente python com a tela interativa.
 # Não é para usar o Pygame e nem o Turtle.
@@ -74,6 +73,5 @@ def jogoAdivinha():
 
 jogoAdivinha()
 print("JOGO ENCERRADO")
-  
   
   
